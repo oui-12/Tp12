@@ -75,16 +75,6 @@ Le projet est configuré pour utiliser WS-Security avec les paramètres suivants
 
 
 
-## SoapUI pour importer l’URL du WSDL
-<table align="center">
-  <tr>
-    <td align="center" style="border: 2px solid #007acc; padding: 10px; border-radius: 8px;">
-      <img src="docs/2.png" alt="Structure WSDL" width="600"/>
-      <br/>
-      <em> SoapUI pour importer l’URL du WSDL</em>
-    </td>
-  </tr>
-</table>
 
 ## Développement
 
@@ -92,7 +82,6 @@ Le projet est configuré pour utiliser WS-Security avec les paramètres suivants
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #007acc; padding: 10px; border-radius: 8px;">
-      <img src="docs/3.png" alt="Structure WSDL" width="600"/>
       <br/>
       <em>Génération des Stubs Client avec wsdl2java (CXF)</em>
     </td>
