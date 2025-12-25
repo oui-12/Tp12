@@ -1,5 +1,10 @@
 # Service SOAP avec Apache CXF, JAX-WS, JAXB, WSDL et WS-Security
 
+<!-- Uploading "WhatsApp Image 2025-12-25 at 8.15.51 PM.jpeg"... -->
+<!-- Uploading "WhatsApp Image 2025-12-25 at 8.19.17 PM.jpeg"... -->
+<!-- Uploading "WhatsApp Image 2025-12-25 at 8.20.47 PM.jpeg"... -->
+<!-- Uploading "WhatsApp Image 2025-12-25 at 8.22.39 PM.jpeg"... -->
+
 Ce projet est une implémentation d'un service web SOAP sécurisé utilisant la stack technique suivante :
 - Apache CXF
 - JAX-WS
