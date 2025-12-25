@@ -1,5 +1,14 @@
 # Service SOAP avec Apache CXF, JAX-WS, JAXB, WSDL et WS-Security
 
+![Image](https://github.com/user-attachments/assets/41f9c233-047d-4900-b35a-3be31e912b64)
+
+![Image](https://github.com/user-attachments/assets/11da6d38-988f-48a4-be6e-cf361c529e0a)
+
+![Image](https://github.com/user-attachments/assets/f23a45bb-0517-46fd-a333-455b4ade750f)
+
+![Image](https://github.com/user-attachments/assets/f6efa44c-a5b7-45b8-a63f-919d261444be)
+
+
 <!-- Uploading "WhatsApp Image 2025-12-25 at 8.15.51 PM.jpeg"... -->
 <!-- Uploading "WhatsApp Image 2025-12-25 at 8.19.17 PM.jpeg"... -->
 <!-- Uploading "WhatsApp Image 2025-12-25 at 8.20.47 PM.jpeg"... -->
